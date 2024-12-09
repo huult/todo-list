@@ -1,4 +1,5 @@
-'use client';
+"use client";
+
 const Button: React.FC<{
   onClick: () => void;
 }> = (props) => {
